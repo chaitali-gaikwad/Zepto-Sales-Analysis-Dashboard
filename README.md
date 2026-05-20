@@ -6,9 +6,9 @@ Created data models and DAX measures to monitor KPIs such as order volume, custo
 
 ## Output:
 
-### Sales Dashboard:
+### Overview:
 
-![alt text](https://github.com/chaitali-gaikwad/SalesDashboard/blob/main/Dashboards/Sales/op.png?raw=true)
+![alt text]([https://github.com/chaitali-gaikwad/SalesDashboard/blob/main/Dashboards/Sales/op.png?raw=true](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/customers.png))
 
 ### Product and Customer Dashboard:
 ![alt text](https://github.com/chaitali-gaikwad/SalesDashboard/blob/main/Dashboards/ProductAndCustomer/op.png?raw=true)
