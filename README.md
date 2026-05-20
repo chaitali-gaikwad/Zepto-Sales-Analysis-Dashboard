@@ -6,9 +6,29 @@ Created data models and DAX measures to monitor KPIs such as order volume, custo
 
 ## Output:
 
-### Overview:
+### Home:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/home.png)
 
+### Overview:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/overview.png)
+
+### Info:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/information.png)
+
+### Sales:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/sales.png)
+
+### Customer:
 ![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/customers.png)
 
-### Product and Customer Dashboard:
-![alt text](https://github.com/chaitali-gaikwad/SalesDashboard/blob/main/Dashboards/ProductAndCustomer/op.png?raw=true)
+### Inventory:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/inventory.png)
+
+### Feedbacks:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/feedabacks.png)
+
+### Marketing:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/marketing.png)
+
+### Details:
+![alt text](https://raw.githubusercontent.com/chaitali-gaikwad/Zepto-Sales-Analysis-Dashboard/refs/heads/main/Dashboard%20Images/details%20table.png)
